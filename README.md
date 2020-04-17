@@ -3,7 +3,7 @@ This is a comprehensive tutorial for Pytorch. Each and every topic is implemente
 
 -----
 ## Requirements
-You will need to install different python libraries like _torch_, _jupyter notebook_, _numpy_, _pandas_, _matplotlib_ to name a few. However, we recommend you to rather install a complete bundle like [Anaconda](https://www.anaconda.com/distribution/) which comes with all the necessary libraries pre-installed. However, if you do not want to install the necessary libraries in your system, you could still practice all the topics online through [Colab](https://colab.research.google.com).
+You will need to install different python libraries like _torch_, _jupyter notebook_, _numpy_, _pandas_, _matplotlib_ to name a few. However, we recommend you to rather install a complete bundle like [Anaconda](https://www.anaconda.com/distribution/) which comes with all the necessary libraries pre-installed. Seems like a lot of work? If you do not want to install the necessary libraries in your system, you could still practice all the topics online through [Colab](https://colab.research.google.com).
 
 -----
 __NOTE:__ We will start with the basic concept of tensors, go through various operations in torch framework, and then gradually learn how to contruct deep neural networks in Pytorch. If you are beginner, we recommend you to start with the first chapter _Introduction to tensors_ and continue sequentially. However, you already have some knwoledge of the basics, you could choose any of the topics you want to explore.
